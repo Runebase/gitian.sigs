@@ -1,12 +1,12 @@
 --- !!omap
 - out_manifest: |
-    9b0a7792a66f8c9fff94da51ea4b2658ca95e424c74dbda0bce4a00fa9166cf9  runebase-0.17.3-win-unsigned.tar.gz
+    f9f81bc60b7d1cf876c5a1b71b8c0d8e6b5c568d647e76edebc0cf972f346e97  runebase-0.17.3-win-unsigned.tar.gz
     ad16982baadf53084d4de0181a7c4e46ae8cbebc582df320231de390079a7fb3  runebase-0.17.3-win32-debug.zip
-    4bf00aae6f572b7abfe869564af8fda8aa750477a9465b385f972fdb1c29cf33  runebase-0.17.3-win32-setup-unsigned.exe
-    ec3592a694a7329f6586a072537663120d663dba61d55d48b6143ca59aaef242  runebase-0.17.3-win32.zip
+    ea9d1bd57e8dad4a0e84f54c1e9573fce460d41c7871482120c3e0447be6d382  runebase-0.17.3-win32-setup-unsigned.exe
+    e1e3df649400ad7037354537b650d491baa381986d79a78e8633cb30fe58db72  runebase-0.17.3-win32.zip
     577999471c314550f6da8269d4dfea0bc33df06e02fe55d769317e18e662db71  runebase-0.17.3-win64-debug.zip
-    f10f3dc53907d44a00161e614476e5458500dfb633019c51e19cf2d80742967d  runebase-0.17.3-win64-setup-unsigned.exe
-    c4e8451be16d2555d584bddb47275420934f8f9c7760e8b11123e2ba6b6c5956  runebase-0.17.3-win64.zip
+    3e3993cfab119037a4ed7b83b7c156c0f922d6f83d789b830c686ea7a276363e  runebase-0.17.3-win64-setup-unsigned.exe
+    d376cc0ad1399d31a1be8e4d10e69fa35b131798f6ac20837a873f2ec372e696  runebase-0.17.3-win64.zip
     d110774268e14f6603330ff4a086b2279e8c67dbe49ddef5fd604e05f33545b3  src/runebase-0.17.3.tar.gz
 - in_manifest: |-
     41d0d7bc29eb0e6b5062b3aebf52ab7a4b1d3b5c06841dc432800e0c8747f2d2  runebase-win-0.17-desc.yml
