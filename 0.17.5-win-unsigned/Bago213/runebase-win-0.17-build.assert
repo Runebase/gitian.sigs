@@ -1,16 +1,16 @@
 --- !!omap
 - out_manifest: |
-    a98fcb56bc886c5cd1d31e3b36871a015a086d5ded0eab7b30c538c93a8c4163  runebase-0.17.5-win-unsigned.tar.gz
-    b55ab7928ad2c5494e09c9099f8a64cad2faa2e4d266e553aa08d994f0b5e05c  runebase-0.17.5-win32-debug.zip
-    66863c7cf9a3511c8b527e519ba5f0d721929114607e0d8e3c01bb8183b33076  runebase-0.17.5-win32-setup-unsigned.exe
-    910600bdc0111a5ff7db23c4f7f38454335560fc71e77641fca53eaf215dc659  runebase-0.17.5-win32.zip
-    bdc24ef48d17106f582675a95332493b08c1021a71ae0dfa2de2130d4cfede7f  runebase-0.17.5-win64-debug.zip
-    ef8c437061e832261d0f5004664391b57dc7f306c57eaf402ed155085e7fe6e2  runebase-0.17.5-win64-setup-unsigned.exe
-    3d41dace09c3ed4523579b52e5965271a0ea093c1745a4726b391d15db2f95ca  runebase-0.17.5-win64.zip
-    765114f5e7d6616c2135096eddd997989efe7233626fcb2162e68ffdc840f72c  src/runebase-0.17.5.tar.gz
+    6851390bc8c3a548505550eb3e6dcb118632bc28b5ac2a851e73a499c670c490  runebase-0.17.5-win-unsigned.tar.gz
+    391f171b2a2faea0f96e221f04b7e0a197d348daa73a6b5d07df377043221d58  runebase-0.17.5-win32-debug.zip
+    dfb1a47007994d53248324afcd339585c0a1e30ce12516cc703719288ed3cbae  runebase-0.17.5-win32-setup-unsigned.exe
+    43692e3baf2c201fbe6f02286f67418f69f98afc9b4bbe17c101a99163811609  runebase-0.17.5-win32.zip
+    142b13862f21fb6d8b81172636e843b3921f02cb11b65ad870a80ec9c415549b  runebase-0.17.5-win64-debug.zip
+    27ed42fd53c41142d4bb897faffac527ed4455b6fb578be1c7137b25a7e48539  runebase-0.17.5-win64-setup-unsigned.exe
+    88a7d47b1c1e097d98a40578d442f346a53642c4bbec9143722fd7f2e06a3e71  runebase-0.17.5-win64.zip
+    0eaacb7024bfa5aeb701608cb908e883f1c7390d07ed6b5b707b6f095ddd8821  src/runebase-0.17.5.tar.gz
 - in_manifest: |-
     41d0d7bc29eb0e6b5062b3aebf52ab7a4b1d3b5c06841dc432800e0c8747f2d2  runebase-win-0.17-desc.yml
-    git:dc1031a150b6b37e36f6360331f1d3e8a9e63051 runebasegit:1b1cc0aee1e23ae38dcf08c6ebe2de668eef1209 cpp-eth-runebase
+    git:0dc1ec3cbb9fd93689481118e452e9b79107819c runebasegit:1b1cc0aee1e23ae38dcf08c6ebe2de668eef1209 cpp-eth-runebase
 - base_manifests: !!omap
   - bionic-amd64: |
       d451eb00b2d0e2940e26028ea9f2fb1be4f5109010e997acfb2c46229ebd9ebe  adduser_3.116ubuntu1_all.deb
